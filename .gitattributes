@@ -1,5 +1,6 @@
 # Documentation files
 .pdf	binary
+
 # OpenDocument formats
 .odt	binary
 .ods	binary
@@ -11,3 +12,10 @@
 .fodp	binary
 .fodg	binary
 .fodf	binary
+
+# Image formats
+.png	binary
+.jpg	binary
+.jpeg	binary
+.gif	binary
+.webp	binary
