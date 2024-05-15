@@ -1,0 +1,13 @@
+# Documentation files
+.pdf	binary
+# OpenDocument formats
+.odt	binary
+.ods	binary
+.odp	binary
+.odg	binary
+.odf	binary
+.fodt	binary
+.fods	binary
+.fodp	binary
+.fodg	binary
+.fodf	binary
